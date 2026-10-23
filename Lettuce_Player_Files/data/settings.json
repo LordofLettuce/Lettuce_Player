@@ -1,0 +1,18 @@
+{
+  "background": "C:\\Users\\Owner\\Desktop\\Coding\\Python\\speechVLC_env\\assets\\2-god-speed-edmund-leighton.jpg",
+  "nightMode": true,
+  "nightBackground": "C:\\Users\\Owner\\Desktop\\Hopes & Dreams\\stock-photo-towers-of-the-cologne-cathedral.png",
+  "fun": true,
+  "accent": "#5a3a27",
+  "sort": "name",
+  "reverse": true,
+  "loop": "off",
+  "shuffle": false,
+  "fadeIn": 1.5,
+  "fadeOut": 1.5,
+  "eq": {
+    "bass": 0.0,
+    "mid": -12.0,
+    "treble": -12.0
+  }
+}
