@@ -1,6 +1,6 @@
 # Lettuce_Player 1.0
 *A pleasant music player with Speech-to-Text song selection.* 
-Download installer: [win_installer](https://github.com/LordofLettuce/Lettuce_Player/tree/main/win_installer)
+Download windows installer: [win64_install](https://github.com/LordofLettuce/Lettuce_Player/tree/main/win_installer)
 ## Includes:
   - http radio
   - playlists
