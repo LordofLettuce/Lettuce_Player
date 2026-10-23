@@ -1,4 +1,4 @@
-# Lettuce_Player
+# Lettuce_Player 1.0
 *A pleasant music player with Speech-to-Text song selection.* 
 ## Includes:
   - http radio
