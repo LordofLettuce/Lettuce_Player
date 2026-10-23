@@ -1,9 +1,10 @@
 # Lettuce_Player
 *A pleasant music player with Speech-to-Text song selection.* 
-## Includes: 
-  - playlists 
+## Includes:
   - http radio
-  - good song filters
+  - playlists
+  - song filters (Name/#/Album/Artist)
+  - song/playlist search
   - relax screen
   - gif background compatibility
   - color themes
