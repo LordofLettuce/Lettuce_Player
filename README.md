@@ -37,3 +37,8 @@ Vosk Licensing statment:
 ![Screenshot](Images/Screenshot-2026-10-24-131856.png) 
 
 ![Screenshot](Images/Screenshot-2026.png)
+
+![Screenshot](Images/Screenshot-2026-10-24-132030.png)
+
+![Screenshot](Images/Screenshot-2026-10-24-132639.png)
+
