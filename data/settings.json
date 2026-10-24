@@ -1,0 +1,22 @@
+{
+  "background": "C:\\Users\\Owner\\Desktop\\Coding\\Python\\speechVLC_env\\dankvart-dreyer-landskab-med-solbelyste-skyer-hd.jpg",
+  "nightMode": false,
+  "nightBackground": "",
+  "fun": true,
+  "youtube": true,
+  "cover": true,
+  "pictureTitleBar": true,
+  "language": "en",
+  "accent": "#f1ee7c",
+  "sort": "album",
+  "reverse": false,
+  "loop": "list",
+  "shuffle": false,
+  "fadeIn": 1.5,
+  "fadeOut": 1.5,
+  "eq": {
+    "bass": 0.0,
+    "mid": 0.0,
+    "treble": 0.0
+  }
+}

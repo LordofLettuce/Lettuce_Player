@@ -1,0 +1,13 @@
+2026/10/24-08:23:52.171 4410 Reusing MANIFEST C:\Users\Owner\Desktop\Coding\Python\speechVLC_env\data\youtube_player\Default\WebStorage\1\IndexedDB\indexeddb.leveldb/MANIFEST-000001
+2026/10/24-08:23:52.172 4410 Recovering log #75
+2026/10/24-08:23:52.174 4410 Reusing old log C:\Users\Owner\Desktop\Coding\Python\speechVLC_env\data\youtube_player\Default\WebStorage\1\IndexedDB\indexeddb.leveldb/000075.log 
+2026/10/24-08:23:52.174 4410 Delete type=2 #73
+2026/10/24-08:23:52.461 37e8 Level-0 table #80: started
+2026/10/24-08:23:52.463 37e8 Level-0 table #80: 18663 bytes OK
+2026/10/24-08:23:52.464 37e8 Delete type=0 #75
+2026/10/24-08:23:52.464 37e8 Manual compaction at level-0 from '\x00\x18\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at '\x00\x19\x00\x00\xc8\x11\x00L\x00o\x00g\x00s\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00S\x00t\x00o\x00r\x00e' @ 5141 : 1
+2026/10/24-08:23:52.464 37e8 Compacting 1@0 + 1@1 files
+2026/10/24-08:23:52.466 37e8 Generated table #81@0: 341 keys, 4195 bytes
+2026/10/24-08:23:52.466 37e8 Compacted 1@0 + 1@1 files => 4195 bytes
+2026/10/24-08:23:52.467 37e8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/24-08:23:52.467 37e8 Manual compaction at level-0 from '\x00\x19\x00\x00\xc8\x11\x00L\x00o\x00g\x00s\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00S\x00t\x00o\x00r\x00e' @ 5141 : 1 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at (end)
