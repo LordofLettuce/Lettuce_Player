@@ -8,6 +8,10 @@
   - convenient library/playlist filtering and searching
   - quick metadata & album art editing for multiple songs at a time
 - Built in lyrics support using .lrc files
+- Like to listen to ambience with your music? I've got you! Use the built in dual player
+    - Middle click to select a second song which will open player #2!
+    - Using this, you can have a playlist of ambience from YouTube on shuffle while you
+    listen to whatever music you'd like!
 - Just like the radio? Use the built in http radio tab and organize your favorites however you'd like!
 
 Vosk Licensing statment:
