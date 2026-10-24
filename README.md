@@ -7,6 +7,7 @@
   - fast playlists
   - convenient library/playlist filtering and searching
   - quick metadata & album art editing for multiple songs at a time
+- Built in lyrics support using .lrc files
 - Just like the radio? Use the built in http radio tab and organize your favorites however you'd like!
 
 Vosk Licensing statment:
