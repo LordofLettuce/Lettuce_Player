@@ -1,5 +1,5 @@
 # Why Lettuce Player?
-![Screenshot](images/Screenshot 2026-10-24 131856.png)
+![Screenshot](images/Screenshot-2026-10-24-131856.png)
 - It looks so darn good
 - Entirely offline Speech-to-Text using Vosk
   - say play ___ or stop or resume to control your music with Vosk!
