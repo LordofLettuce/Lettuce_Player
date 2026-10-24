@@ -7,7 +7,7 @@
   - fast playlists
   - convenient library/playlist filtering and searching
   - quick metadata & album art editing for multiple songs at a time
-- Just like the radio? Use the built in Http radio! Organize your favorite radios however you'd like!
+- Just like the radio? Use the built in http radio tab and organize your favorites however you'd like!
 
 Vosk Licensing statment:
 // Copyright 2020-2021 Alpha Cephei Inc.
