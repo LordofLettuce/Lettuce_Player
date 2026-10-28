@@ -8,6 +8,13 @@
   - fast playlists
   - convenient library/playlist filtering and searching
   - quick metadata & album art editing for multiple songs at a time
+- SUPER PLAYLISTS
+    - Playlists WITHIN Playlists
+    - Use conditions to keep songs from playing at the wrong times!
+        - i.e. "if previous song was in playlist 'Hip Hop Beatz'" skip the current song
+        - or "if playlist has played all its songs" skip the playlist
+    - Loop a group of songs
+    - Limit how many songs will play before the playlist ends
 - Built in lyrics support using .lrc files
 - Like to listen to ambience with your music? I've got you! Use the built in dual player
     - Middle click to select a second song which will open player #2!
